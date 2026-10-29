@@ -12,7 +12,7 @@
    Until a real number is added, the buttons show a reminder
    message instead of opening WhatsApp.
    ---------------------------------------------------------- */
-const WHATSAPP_NUMBER = "REPLACE_WITH_WHATSAPP_NUMBER";
+const WHATSAPP_NUMBER = "255783070362";
 
 /* Message sent when someone presses the general contact button (EDIT if you like). */
 const GENERAL_MESSAGE =
